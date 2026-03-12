@@ -1,0 +1,2 @@
+# Automated-MLOps-Pipeline-using-Apache-Airflow-and-MLflow-for-Experiment-Tracking
+This project implements an end-to-end MLOps pipeline using Apache Airflow and MLflow on the Titanic dataset. Airflow orchestrates tasks (data ingestion, validation, preprocessing, training, evaluation, and decision branches), while MLflow tracks experiments (logging parameters, metrics, and model artifacts) and hosts the model registry.
